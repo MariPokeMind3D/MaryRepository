@@ -1,5 +1,5 @@
 # 👨‍💻 Practica instalación de entornos. 👩‍💻
-## 1. Instalación de entornos: 💻 hello
+## 1. Instalación de entornos: 💻 
 - [Eclipse](https://www.eclipse.org/downloads/) (Consultar el material de consulta para los pasos a seguir de la instalacion)
 - [NetBeans](https://netbeans.apache.org/front/main/index.html)
 - [IntelliJIDEA](https://www.jetbrains.com/idea/download/?section=windows)
