@@ -24,7 +24,7 @@ menos en el desarrollo de aplicaciones.
 
 > **IMPORTANTE**
 >
-> En el material de consulta hay pasos para seguir para la instalacion, desistalacion y modificaion de modulos, asi como mecanismos de actualizacion
+> En el material de consulta hay pasos para seguir para la instalacion, desistalacion y modificacion de modulos, asi como mecanismos de actualizacion
 
 ## 3. Proyectos en NetBeans o Eclipse  📟
 1. Crea un proyecto Java y otro de C++ en NetBeans o Eclipse(elegir el que querais)
