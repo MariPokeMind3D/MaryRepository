@@ -19,7 +19,7 @@ proceso.
 menos en el desarrollo de aplicaciones.
 
 ### 2.1 Cambia el color, el tipo de fuente en la configuración de Eclipse y de IntelliJ IDEA
-> Mi idea es que una persona del equipo busque como hacerlo y luego que nos diga como hacer dicha configuracion
+
 ### 2.2 Configura Eclipse para que se actualice de forma automática y desatendida todos los días.
 
 > **IMPORTANTE**
